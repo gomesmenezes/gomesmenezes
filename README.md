@@ -1,28 +1,28 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
+<h1 align="center">Hi 👋, I'm José Gomes</h1>
+<h3 align="center">Only a curious guy, passionate about technology and machines</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=88D18A&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+José+Gomes;I'm+19+years+old;I'm+from+Brazil;I+Student+of+Information+System;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gomesmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="gomesmenezes" /> </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gomesmenezes&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F&bg_color=0d1117" alt="Gomes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomesmenezes&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
-</div>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gomesmenezes&bg_color=0d1117&color=00FF7F&line=00FA9A&point=006400&area=true&hide_border=true)](https://github.com/gomesmenezes/github-readme-activity-graph)
+- 🌱 I’m currently learning **Java**
 
-<div align="center"> 
-  <a href="https://instagram.com/gomes.svg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href = "mailto:josegomesd6@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josé-gomes-de-menezes-7770aa270" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  </a>
-</div>
+- 👨‍💻 All of my projects are available at [https://github.com/gomesmenezes?tab=repositories](https://github.com/gomesmenezes?tab=repositories)
 
-### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=0D1117)&nbsp; 
+- 💬 Ask me about **Python, machine learning, Java...**
 
-### Studying in this moment:
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=Angular&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=blue)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+- 📫 How to reach me **josegomesd6@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jos%c3%a9-gomes-de-menezes-7770aa270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jos%c3%a9-gomes-de-menezes-7770aa270/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gomesmenezes&show_icons=true&locale=en&layout=compact" alt="gomesmenezes" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gomesmenezes&show_icons=true&locale=en" alt="gomesmenezes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gomesmenezes&" alt="gomesmenezes" /></p>
